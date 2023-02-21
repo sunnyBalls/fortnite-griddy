@@ -1,2 +1,2 @@
-# fortnite-griddy
+# Fortnite Griddy
 real
